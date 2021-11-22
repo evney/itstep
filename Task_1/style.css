@@ -1,0 +1,36 @@
+.menu {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: Arial;
+}
+.characteristic {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background:  #eaeaea;
+}
+.description {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.first_name {
+    width: 250px;
+    font-size: 14px;
+    color: black;
+}
+.email {
+    width: 250px;
+    font-size: 14px;
+    color: black;
+}
+.tema {
+    width: 250px;
+    font-size: 14px;
+    color: black;
+}
+.main_menu {
+    font-size: 30px;
+}
